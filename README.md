@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a fourth-year student majoring in Computer Science: Computer Game Design with a minor in Technology Information Management at the University of California, Santa Cruz <br><br>Experience as a Dev Lead @Tech4Good, SWE Intern @Radical AI<br><br>Aspiring to be a SWE / PM / Entrepreneur<br><br>Interested in full-stack, web-dev, cloud computing, web 3, blockchain, AI/ML, crypto, quant finance, fin-tech, cybersecurity
+I'm a fourth-year student majoring in Computer Science: Computer Game Design with a minor in Technology Information Management at the University of California, Santa Cruz <br><br>Experience as a Dev Lead @Tech4Good<br><br>Aspiring to be a SWE / PM / Entrepreneur<br><br>Interested in full-stack, web-dev, cloud computing, web 3, blockchain, AI/ML, crypto, quant finance, fin-tech, cybersecurity
 
 
 ## 🌐 Socials:
